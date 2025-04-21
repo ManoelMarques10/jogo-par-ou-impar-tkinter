@@ -23,6 +23,7 @@ e o número da máquina, eventualmente o programa anuncia o vencedor.
 - Geração de valor aleatório com `random`.
 - Uso da biblioteca Tkinter.
 - Uso da bibioteca emoji.
+- Uso da biblioteca PIL.
 
 ---
 
