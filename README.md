@@ -1,30 +1,28 @@
-# 🎮 Jogo do "par" ou "ímpar"
+# 🎮 Jogo do "Par" ou "Ímpar"
 
-Este é um jogo simples de "par" ou "ímpar" feito em python para treinar o uso da biblioteca Tkinter.
-O jogador escolhe entre *"Par"* ou *"Ímpar"* e logo após escolhe um número, após isso é somado o número do jogador
-e o número da máquina, eventualmente o programa anuncia o vencedor.
+Este é um jogo simples de "Par ou Ímpar" feito em Python para praticar o uso da biblioteca Tkinter.  
+O jogador escolhe entre *Par* ou *Ímpar*, depois escolhe um número de 0 a 10.  
+O computador também escolhe um número aleatório, e o programa soma os dois valores e determina o vencedor.
 
 ---
 
 ## ▶️ Como executar
 
-1. Copie o código que está na pasta **Jogo**.
-2. Cole em um terminal que rode Python (VS Code, Thonny, IDLE, etc).
-3. Execute o código para jogar.
-4. Para ter o fundo feito para o jogo é necessario baixar também o arquivo Fundo.png.
-5. Após baixar o arquivo Fundo.png coloque ele junto do seu código na pasta da sua IDE.
+1. Baixe os arquivos da pasta **Programa**.
+2. Execute o código `jogo.py` em um ambiente que rode Python (como VS Code, Thonny, IDLE, etc).
+3. Certifique-se de que o arquivo **Fundo.png** esteja na mesma pasta do código para que o fundo apareça corretamente.
 
 ---
 
-## 💡 O que você vê nesse programa
+## 💡 O que você vai ver neste projeto
 
-- Condicionais (`if/elif/else`).
-- Lógica de comparação entre opções.
-- Geração de valor aleatório com `random`.
-- Uso da biblioteca Tkinter.
-- Uso da bibioteca emoji.
-- Uso da biblioteca PIL.
+- Uso de condicionais (`if/elif/else`).
+- Lógica de comparação e validação de entrada.
+- Geração de valores aleatórios com `random`.
+- Interface gráfica com Tkinter.
+- Uso das bibliotecas:
+  - `PIL` (para exibir imagem de fundo),
+  - `emoji` (para emojis no resultado),
+  - `random` (para a jogada da máquina).
 
 ---
-
-
