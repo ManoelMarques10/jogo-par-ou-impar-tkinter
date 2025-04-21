@@ -26,3 +26,10 @@ O computador também escolhe um número aleatório, e o programa soma os dois va
   - `random` (para a jogada da máquina).
 
 ---
+
+## 📷 Imagem
+
+![Print do jogo](imagemgame.png)
+
+---
+
