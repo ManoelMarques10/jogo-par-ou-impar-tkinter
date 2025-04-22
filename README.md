@@ -23,7 +23,7 @@ O computador também escolhe um número aleatório, e o programa soma os dois va
 - Uso das bibliotecas:
   - `PIL` (para exibir imagem de fundo),
   - `emoji` (para emojis no resultado),
-  - `random` (para a jogada da máquina).=
+  - `random` (para a jogada da máquina).
 
 ---
 
