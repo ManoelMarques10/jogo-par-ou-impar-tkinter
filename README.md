@@ -11,6 +11,7 @@ O computador também escolhe um número aleatório, e o programa soma os dois va
 1. Baixe os arquivos da pasta **Programa**.
 2. Execute o código `jogo.py` em um ambiente que rode Python (como VS Code, Thonny, IDLE, etc).
 3. Certifique-se de que o arquivo **Fundo.png** esteja na mesma pasta do código para que o fundo apareça corretamente.
+4. Instale as bibliotecas Tkinter, Pillow e Emoji.
 
 ---
 
